@@ -1,7 +1,7 @@
 ---
 applications:
 - name: spring-petclinic-27
-  path: target/spring-petclinic-2.7.3.jar
+  path: target/spring-petclinic-2.7.3-spring-boot.jar
   buildpacks:
     - ms_java_offline
   stack: cflinuxfs4
